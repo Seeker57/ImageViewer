@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resourse">
+        <file>img/Newfile.png</file>
+        <file>img/closefile.png</file>
+        <file>ScaledLabel.h</file>
+        <file>img/recentfiles.png</file>
+        <file>img/mainIcon.png</file>
+        <file>img/startSize.png</file>
+        <file>img/zoomIn.png</file>
+        <file>img/zoomOut.png</file>
+    </qresource>
+</RCC>
